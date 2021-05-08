@@ -1,0 +1,4 @@
+﻿  main.c
+D:\SourceCode\vs2019\c\WordCount\WordCount\main.c(14,14): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\SourceCode\vs2019\c\WordCount\WordCount\main.c(45,14): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  WordCount.vcxproj -> D:\SourceCode\vs2019\c\WordCount\WordCount\Debug\WordCount.exe
